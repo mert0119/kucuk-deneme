@@ -1,1 +1,1 @@
-# kucuk-denemee
+# kucuk-deneme
